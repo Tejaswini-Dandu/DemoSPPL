@@ -1,0 +1,1 @@
+{"uuid":"72c1c535-cfa2-4b1d-9270-c259034371ee","name":"Scenario: Login functionality","children":["2a69c3d0-aa8a-44e8-bd50-0e22e881f1c1"],"befores":[{"name":"com.sppl.testcases.CreateUser.setUp()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1665124748559,"stop":1665124754048}],"afters":[],"start":1665124748551,"stop":1665124754086}
